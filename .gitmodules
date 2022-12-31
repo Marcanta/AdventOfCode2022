@@ -4,3 +4,6 @@
 [submodule "Java"]
 	path = Java
 	url = https://github.com/Wawa27/AdventOfCodeJava2022
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/HugoDerigny/AdventOfCode2022.git
